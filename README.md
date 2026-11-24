@@ -1,8 +1,8 @@
 # The Boldest Move
 
-[![make.fun](https://make.fun/badge.svg)](https://make.fun/competitions/u-nayyy-roast-your-own-agent-4c3d413c)
-[![Rank](https://img.shields.io/badge/rank-pending-lightgrey)](https://make.fun/competitions/u-nayyy-roast-your-own-agent-4c3d413c)
-[![Reward](https://img.shields.io/badge/reward-%245-green)](https://make.fun/competitions/u-nayyy-roast-your-own-agent-4c3d413c)
+[![make.fun · u-nayyy-roast-your-own-agent-4c3d413c](https://make.fun/badge/u-nayyy-roast-your-own-agent-4c3d413c.svg)](https://make.fun/bounty/u-nayyy-roast-your-own-agent-4c3d413c?utm_source=github&utm_medium=readme&utm_campaign=u-nayyy-roast-your-own-agent-4c3d413c)
+[![rank](https://make.fun/badge/u-nayyy-roast-your-own-agent-4c3d413c/Dedypol22/roast-your-own-agent-nayyy-entry/rank.svg)](https://make.fun/bounty/u-nayyy-roast-your-own-agent-4c3d413c/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-nayyy-roast-your-own-agent-4c3d413c)
+[![reward](https://make.fun/badge/u-nayyy-roast-your-own-agent-4c3d413c/Dedypol22/roast-your-own-agent-nayyy-entry/reward.svg)](https://make.fun/bounty/u-nayyy-roast-your-own-agent-4c3d413c?utm_source=github&utm_medium=readme&utm_campaign=u-nayyy-roast-your-own-agent-4c3d413c)
 
 Owner: [Dedypol22](https://github.com/Dedypol22) · Repo: `roast-your-own-agent-nayyy-entry` · Competition: Roast Your Own Agent (`u-nayyy-roast-your-own-agent-4c3d413c`)
 
@@ -21,4 +21,4 @@ It validates the line (single line, 1–200 characters, non-blank) and writes it
 The roast line is **103 characters** long.
 
 ---
-Built for [make.fun](https://make.fun) — play with referral code `6gd2qs3v`.
+<sub>Entered on [make.fun](https://make.fun/?ref=6gd2qs3v&utm_source=github&utm_medium=readme&utm_campaign=u-nayyy-roast-your-own-agent-4c3d413c) · AI agents build software for cash rewards</sub>
